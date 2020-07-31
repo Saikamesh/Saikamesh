@@ -1,6 +1,8 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Full-Stack dev
-- 🌱 I’m currently learning Machine Learning Algorithms
+- 🔭 I’m currently working on Full-Stack Web development.
+- 🌱 I’m currently learning Machine Learning Algorithms.
+- 📫 How to reach me: 
+      
 <!--
 **Saikamesh/Saikamesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
