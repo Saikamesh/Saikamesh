@@ -1,8 +1,10 @@
-### Hi there 👋
-- 🔭 I’m currently working on Full-Stack Web development.
-- 🌱 I’m currently learning Machine Learning Algorithms.
-- 📫 How to reach me: 
-      
+### Hello there 👋
+
+- 🔭 I’m currently working on **Full-Stack Web development**.
+- 🌱 I’m currently learning **Machine Learning Algorithms**.
+- 📫 How to reach me:
+  - [Linkedin](https://www.linkedin.com/in/saikamesh/ 'SaiKamesh')
+
 <!--
 **Saikamesh/Saikamesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,4 +18,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
