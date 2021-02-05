@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-- 🔭 I’m currently working on **Building a counterfeit currency recognizer using Deeplearning Models **.
+- 🔭 I’m currently working on **Building a counterfeit currency recognizer using Deeplearning Models.**
 <!-- - 🌱 I’m currently learning **Machine Learning Algorithms**.-->
 - 📫 How to reach me:
   - [Linkedin](https://www.linkedin.com/in/saikamesh/ 'SaiKamesh')
