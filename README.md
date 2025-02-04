@@ -2,8 +2,7 @@
 
 - 🔭 Projects I'm currently working on
   -    
-  - **Building a Python package to interact with TikTok Research APIs.**
-  - **Full Stack Web Application for performing Exit Interviews.**
+  - **Building My Personal Portfolio page**
 
 
 - 📫 How to reach me:
