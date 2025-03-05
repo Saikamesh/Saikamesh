@@ -8,6 +8,12 @@
 
 🎓 Bachelor of Technology in Computer Science and Engineering 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saikamesh/saikamesh/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saikamesh/saikamesh/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/saikamesh/saikamesh/output/github-snake.svg" />
+</picture>
+
 ## My Stats
 
 <!-- Profile Details Card -->
@@ -34,6 +40,8 @@
 <!-- <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saikamesh&theme=bear&utcOffset=-5" width=750 alt="language stats"/>
 </div> -->
+
+
 
 ## How to reach me: 📫
 
