@@ -3,7 +3,7 @@
 ## Hello World! I am [Sai Dwibhashyam](https://saidwibhashyam.tech)
 
 <div>
-<span>🧑‍💻 Software Engineer, 4+ years of Work Experience</span>
+<span>🧑‍💻 Software Engineer, 4.5+ years of Work Experience</span>
 <br>
 <span>📜 AWS Certified Solutions Architect – Associate</span>
 <br>
@@ -24,7 +24,7 @@
 
 <!-- Profile Details Card -->
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saikamesh&theme=aura" width=750  alt="stats graph"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saikamesh&theme=algolia" width=750  alt="stats graph"/>
 </div>
 
 <!-- Top Languages by Repo Stat Graph -->
